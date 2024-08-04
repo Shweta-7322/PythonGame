@@ -1,2 +1,2 @@
 # PythonGame
-Python Game developed using pycharm IDE and pyrhon. It is GUI application.
+Python Game developed using pycharm IDE and pyThon. It is a GUI application.
